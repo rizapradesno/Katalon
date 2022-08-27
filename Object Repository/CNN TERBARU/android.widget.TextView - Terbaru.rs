@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.TextView - PEKANBARU</name>
+   <name>android.widget.TextView - Terbaru</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,39 +12,39 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>db0f00d0-8774-47ec-a0fa-ba562cada3d8</webElementGuid>
+      <webElementGuid>4b66c2fc-088c-4b95-8093-3b7e666515bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>394d6506-9694-4793-bdcf-1199ed20d907</webElementGuid>
+      <value>1</value>
+      <webElementGuid>2bbfe028-ee58-4f0d-be0b-a8aaeaa28fe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>PEKANBARU</value>
-      <webElementGuid>6d7af6ed-21d2-4a0b-851a-e21ed62d3fc3</webElementGuid>
+      <value>Terbaru</value>
+      <webElementGuid>66483314-4144-45c6-b8fd-6c2f5ba12068</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>id.tix.android:id/tvCityName</value>
-      <webElementGuid>0c1b6978-45ad-449f-8834-de20aa12c849</webElementGuid>
+      <value>com.cnn.indonesia:id/category_name_textview</value>
+      <webElementGuid>c1cda9cb-916b-4096-b4f8-e86540d6274b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>package</name>
       <type>Main</type>
-      <value>id.tix.android</value>
-      <webElementGuid>322990ef-5df6-4cf4-85ba-9a00f1934d9c</webElementGuid>
+      <value>com.cnn.indonesia</value>
+      <webElementGuid>64a7d835-79f1-4ec6-beee-71c50a9095b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>92ede6e4-efa8-4ed7-b145-b8db54db8f3c</webElementGuid>
+      <webElementGuid>59a55884-aa43-46e1-850f-967c533020ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>30916467-3c78-47fb-8813-1f4935114daf</webElementGuid>
+      <webElementGuid>431fdd3a-9c84-44e6-8e9a-f667c6c375d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>40ce9475-9a5a-4550-9460-4281f8f74b25</webElementGuid>
+      <webElementGuid>2eb59120-8ea3-4910-a1a5-58cf0ab4ea88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c63924f3-f9de-4132-9ec6-95c7a1e2741e</webElementGuid>
+      <webElementGuid>a2c4e738-5b6f-4ced-aa7b-e5dee4217533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>54b99620-dc58-4abe-b5cd-be36a0c94a11</webElementGuid>
+      <webElementGuid>1cc677dc-ea9e-4029-bef4-72253dc62941</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3f822626-7cd5-460f-baea-701b7b4844d7</webElementGuid>
+      <webElementGuid>290302c1-60b9-426c-8bbe-844c7144d093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2e26b9a7-3723-4df3-bf0b-d059b1004d43</webElementGuid>
+      <webElementGuid>a39e1c58-6efb-4d82-98b7-ac684d966e97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b4d9139c-bbca-446e-a616-a63265b7a5dd</webElementGuid>
+      <webElementGuid>6d95f8ec-1185-48df-896f-8a69edf2ed03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7c192d7c-d971-4e4d-9bca-7018537560fd</webElementGuid>
+      <webElementGuid>3d3b6373-d793-45eb-a5ab-da58d8c15b2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,47 +124,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>93975227-2bab-47de-9c5f-4668291d80a5</webElementGuid>
+      <webElementGuid>bd06fe92-de4c-420a-995b-a29b422cebb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>11</value>
-      <webElementGuid>2b9aace1-4d44-4575-a67b-56fa9256d446</webElementGuid>
+      <value>508</value>
+      <webElementGuid>21d72468-6ac2-4417-8214-0124e2c83629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>909</value>
-      <webElementGuid>cd01a2c2-073f-4628-90ff-9d3f20785985</webElementGuid>
+      <value>102</value>
+      <webElementGuid>27352cac-65b7-48f3-acdf-d1e63410d8a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>1069</value>
-      <webElementGuid>4c6849f3-d6d2-4d07-9bf5-fdbc8dc36799</webElementGuid>
+      <value>528</value>
+      <webElementGuid>0a74e559-fcfe-42b0-9937-6385b1eeb8c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>141</value>
-      <webElementGuid>250b866c-9529-4a6b-8292-1bf1487e71c7</webElementGuid>
+      <value>60</value>
+      <webElementGuid>c5293b4a-a946-4b4e-af0a-b2afec360895</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[11,909][1080,1050]</value>
-      <webElementGuid>f00b2922-ed06-41a2-8b4f-5b87b6675502</webElementGuid>
+      <value>[508,102][1036,162]</value>
+      <webElementGuid>b450b33c-c1c5-4a2f-a740-79f09a2dc4cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,16 +172,16 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5aca951f-e629-4482-8700-b08ee5217dd3</webElementGuid>
+      <webElementGuid>33ae04f1-0d78-477c-be47-fb434c986549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[6]/android.widget.RelativeLayout[1]/android.widget.TextView[1]</value>
-      <webElementGuid>caea9d44-ff51-4e63-ae14-607a64ad9d17</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.drawerlayout.widget.DrawerLayout[1]/android.widget.FrameLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/androidx.appcompat.widget.LinearLayoutCompat[1]/android.widget.TextView[1]</value>
+      <webElementGuid>8a285dcb-0368-4cf0-8842-85feff7b6ff2</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'PEKANBARU' or . = 'PEKANBARU') and @resource-id = 'id.tix.android:id/tvCityName']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Terbaru' or . = 'Terbaru') and @resource-id = 'com.cnn.indonesia:id/category_name_textview']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

@@ -12,24 +12,24 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>707ccdf1-3f3a-476c-8ec9-961d27e891b8</testSuiteGuid>
    <testCaseLink>
-      <guid>c455e718-0852-48a3-ad04-1a2150c1c7c0</guid>
+      <guid>42720b56-4624-41c0-aed5-70aae19489ce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CNN FOKUS</testCaseId>
+      <testCaseId>Test Cases/CNN EKONOMI</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f5fd7807-7630-49f6-ae8f-9fccb8fec323</guid>
+      <guid>6dd7f586-473b-41a7-a6c5-dcce7727f890</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CNN NASIONAL</testCaseId>
+      <testCaseId>Test Cases/CNN TERBARU</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8aa1b860-b3b9-47c5-9bcb-d0706db6391f</guid>
+      <guid>899f3ebc-f770-4823-8f5e-7066f3bc0763</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CNN POPULER</testCaseId>
+      <testCaseId>Test Cases/CNN TV</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

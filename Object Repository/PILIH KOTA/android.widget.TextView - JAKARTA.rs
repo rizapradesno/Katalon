@@ -12,7 +12,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>7fc535f7-585d-4082-a078-1e06812ca31f</webElementGuid>
+      <webElementGuid>5541de7c-401b-4d65-a69c-64f150265b52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,7 +20,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3af2d587-c25d-4466-a451-561266f94def</webElementGuid>
+      <webElementGuid>c7471fdf-a395-4dcb-9a8c-077e96b8cd3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -28,7 +28,7 @@
       <name>text</name>
       <type>Main</type>
       <value>JAKARTA</value>
-      <webElementGuid>4ba10864-dc9c-4f35-9702-2670440338e3</webElementGuid>
+      <webElementGuid>a9dadb60-d8dc-4dc8-931a-6877f51ff7a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>id.tix.android:id/tv_city</value>
-      <webElementGuid>b7660353-5cdd-40b1-9274-4c718977ec5b</webElementGuid>
+      <webElementGuid>d5c51d94-fa77-4d50-846c-7643b3f1a4d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>id.tix.android</value>
-      <webElementGuid>74550152-2cd2-44ed-9f7e-81c9c0348d14</webElementGuid>
+      <webElementGuid>6ffb972c-39c9-4949-bdf3-a25ed84bd419</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>841d52fc-42eb-4261-b29c-2c3529390653</webElementGuid>
+      <webElementGuid>7e8c473a-75fa-41ac-a7f9-8ce4b32680b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cdce542a-5568-4a85-bb7b-d1eb69efd5c3</webElementGuid>
+      <webElementGuid>c50e82b9-1fba-411f-a01d-fb62a307731f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ce0c7bd3-f944-4e98-af55-614a93725c3b</webElementGuid>
+      <webElementGuid>27db43ca-e2dc-4300-814e-07e7e2bb2621</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>78e61425-f2b1-4720-8a28-94c303d2abee</webElementGuid>
+      <webElementGuid>3595440f-c114-44dd-a1ec-9426e9923ef2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b2b15b1d-be40-4bba-aef0-f52978923187</webElementGuid>
+      <webElementGuid>e57422d6-7ffc-4820-a37e-113d4b588907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6bab2ac9-5d6b-4b47-bd5a-9bd5c7ca18f0</webElementGuid>
+      <webElementGuid>201426d6-ecd8-4b8c-8705-713db2b70f54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a1bb3919-8b39-4821-875e-6f98739b3c2a</webElementGuid>
+      <webElementGuid>b63ade2c-b1d8-48e1-808d-b82081318d69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5f183b8f-a664-4824-8efc-597059a779e6</webElementGuid>
+      <webElementGuid>e503f068-1324-4abd-a451-cebd111eef39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fdd46dd1-868e-44fb-8977-8eea7ca9b527</webElementGuid>
+      <webElementGuid>0712d66e-d821-40ba-a157-9a69ffeb8a57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4a5cf69c-80bb-4ab0-8a7d-bc81567f3921</webElementGuid>
+      <webElementGuid>b64524cb-2b04-4bcb-8ddc-11e50bee90a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>738309ab-21e3-4e18-b969-555a7c53b3da</webElementGuid>
+      <webElementGuid>9a761e49-489f-4da3-9e5d-1b3cd93818b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>y</name>
       <type>Main</type>
       <value>341</value>
-      <webElementGuid>dfbb7074-990b-428d-8a32-a756bc9f0c74</webElementGuid>
+      <webElementGuid>b2d29b98-ab36-43e5-9968-2a0cb40e244a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1080</value>
-      <webElementGuid>24abf7b7-b6d4-442f-833a-c6c0e8d8adb2</webElementGuid>
+      <webElementGuid>ae85dc49-a3fc-414d-a3da-2f6c13fcd99b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>height</name>
       <type>Main</type>
       <value>119</value>
-      <webElementGuid>688bc660-c612-4678-8ed9-a388085756e3</webElementGuid>
+      <webElementGuid>4b3f5179-964c-428e-8711-128ec9a95182</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[0,341][1080,460]</value>
-      <webElementGuid>c5fa0a2f-7ccd-4fac-a1c3-28cd6d584878</webElementGuid>
+      <webElementGuid>8ad0487b-d252-40e5-9e05-eacbdf4ab36e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,7 +172,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>73c21c31-1b01-4a42-9583-c30e43861b12</webElementGuid>
+      <webElementGuid>ad73fbfa-856b-4ed9-8a63-916fccc07502</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -180,7 +180,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.view.ViewGroup[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[1]</value>
-      <webElementGuid>d101f91d-aa68-4b67-8035-52ef98d99ad1</webElementGuid>
+      <webElementGuid>d27bf9be-845a-4a18-a816-93478174d2a6</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.TextView' and (@text = 'JAKARTA' or . = 'JAKARTA') and @resource-id = 'id.tix.android:id/tv_city']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
